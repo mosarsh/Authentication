@@ -1,0 +1,5 @@
+D:\ITZetta\Authentication.Model\bin\Debug\Authentication.Model.dll
+D:\ITZetta\Authentication.Model\bin\Debug\Authentication.Model.pdb
+D:\ITZetta\Authentication.Model\obj\Debug\Authentication.Model.dll
+D:\ITZetta\Authentication.Model\obj\Debug\Authentication.Model.pdb
+D:\ITZetta\Authentication.Model\obj\Debug\Authentication.Model.csprojResolveAssemblyReference.cache

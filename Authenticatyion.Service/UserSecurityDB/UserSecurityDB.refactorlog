@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="aa4d130a-d457-4d44-a7a0-fee0decf8f79" ChangeDateTime="11/24/2015 06:50:23">
+    <Property Name="ElementName" Value="[dbo].[User].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[User]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="UserId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="32694fd8-cdd7-4b5f-a1c8-1cca73c4e1e4" ChangeDateTime="11/24/2015 07:41:03">
+    <Property Name="ElementName" Value="[dbo].[Session].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Session]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SessionId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3814c550-66aa-4a3c-a461-e72c6584cfb2" ChangeDateTime="11/24/2015 08:51:01">
+    <Property Name="ElementName" Value="[dbo].[User].[Password]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[User]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="PasswordHash" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="89d63b8a-6629-41d1-bbcb-b931431a816b" ChangeDateTime="11/24/2015 10:28:08">
+    <Property Name="ElementName" Value="[dbo].[SecurityStamp].[SessionId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[SecurityStamp]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SecurityStampId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="9c0bedac-6017-433a-99e7-23e8fd7d7b63" ChangeDateTime="12/06/2015 08:47:11">
+    <Property Name="ElementName" Value="[dbo].[ExternalUser].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ExternalUser]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ExternalUserId" />
+  </Operation>
+</Operations>

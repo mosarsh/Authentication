@@ -1,0 +1,5 @@
+D:\ITZetta\Authentication.Constant\bin\Debug\Authentication.Constant.dll
+D:\ITZetta\Authentication.Constant\bin\Debug\Authentication.Constant.pdb
+D:\ITZetta\Authentication.Constant\obj\Debug\Authentication.Constant.dll
+D:\ITZetta\Authentication.Constant\obj\Debug\Authentication.Constant.pdb
+D:\ITZetta\Authentication.Constant\obj\Debug\Authentication.Constant.csprojResolveAssemblyReference.cache

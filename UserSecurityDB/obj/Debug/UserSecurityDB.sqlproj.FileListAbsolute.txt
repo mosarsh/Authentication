@@ -1,0 +1,5 @@
+D:\ITZetta\UserSecurityDB\bin\Debug\UserSecurityDB.dacpac
+D:\ITZetta\UserSecurityDB\bin\Debug\UserSecurityDB.dll
+D:\ITZetta\UserSecurityDB\bin\Debug\UserSecurityDB.pdb
+D:\ITZetta\UserSecurityDB\obj\Debug\UserSecurityDB.dll
+D:\ITZetta\UserSecurityDB\obj\Debug\UserSecurityDB.pdb
